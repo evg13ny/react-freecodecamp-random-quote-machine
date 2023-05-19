@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-freecodecamp-random-quote-machine/static/css/main.b2842172.css",
+    "main.js": "/react-freecodecamp-random-quote-machine/static/js/main.93c2eec2.js",
+    "index.html": "/react-freecodecamp-random-quote-machine/index.html",
+    "main.b2842172.css.map": "/react-freecodecamp-random-quote-machine/static/css/main.b2842172.css.map",
+    "main.93c2eec2.js.map": "/react-freecodecamp-random-quote-machine/static/js/main.93c2eec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2842172.css",
+    "static/js/main.93c2eec2.js"
+  ]
+}
